@@ -1,6 +1,6 @@
-# Animate Views as GIF
+# Animate [Ipe](https://ipe.otfried.org/) Views as GIF
 
-This ipelet allows you to create an animated GIF from the views of the current page.
+This small Ipelet allows you to create an animated GIF from the views of the current page in [Ipe](https://ipe.otfried.org/).
 
 It has been used for the creation of the [Visualization of convex hull algorithms in Ipe](https://github.com/Marian-Braendle/convex-hull-algorithms).
 
